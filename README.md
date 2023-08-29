@@ -1,4 +1,4 @@
-# CPSC 304 Project
+# CPSC 304 Project (2021)
 # Project Sanctuary Timeline and Task Breakdown
 
 ## Timeline:
@@ -46,12 +46,12 @@ Andy:
 - aggregation + nested aggregation
 - debugging the .sql script(s) implemented above
 
-Kieran:
+K:
 - Design frontend UI mockups
 - Implement insertion and deletion queries end to end  
 - Setup development environment
 
-Parsa:
+P:
 - Designing the frontend UI mockups
 - Implementing the GUI and writing SQL queries for division, projection, and selection.
 - Setup development environment
